@@ -6,4 +6,7 @@ package com.test;
  * @Date 2022/2/23
  **/
 public class MaoPao {
+    public static void main(String[] args) {
+        System.out.println("maopaotest");
+    }
 }
