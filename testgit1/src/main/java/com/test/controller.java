@@ -8,5 +8,6 @@ package com.test;
 public class controller {
     public static void main(String[] args) {
         System.out.println("test");
+        System.out.println("adfa 4 origin ");
     }
 }
