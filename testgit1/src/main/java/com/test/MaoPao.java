@@ -5,9 +5,9 @@ package com.test;
  * @Description //
  * @Date 2022/2/23
  **/
-public class controller {
+public class MaoPao {
     public static void main(String[] args) {
-        System.out.println("test");
-        System.out.println("adfa 4 origin ");
+        System.out.println("maopaotest");
+        System.out.println("11");
     }
 }
